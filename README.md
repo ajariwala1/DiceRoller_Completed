@@ -10,3 +10,4 @@ This is a DiceRoller application rolls two dice on a button click.
 
 ## Finished App
 
+<img src="https://github.com/ajariwala1/DiceRoller_Completed/blob/main/Docs/DiceRoller_Completed.gif?raw=true" width="200">
